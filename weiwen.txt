@@ -1,0 +1,26 @@
+git init
+	Initialises new empty Git repository
+	
+git add -A
+	add the files to the staging area
+	-A means add all the files in the folder
+
+git commit -m""
+	make a new version/snapshot of the project
+	-m makes the message
+	message have to be short, precise and meaningful
+	
+git log
+	gives all the git commit messages and when
+	--oneline print everything in 1 line each
+	
+git status
+	show where are all the files in the 3 stages in Git
+	Working Directory - Staging Area - Respository
+	
+git diff
+	Check the difference between the Staging Area and the Working Directory
+	
+git clone <url>
+	clone from the github website
+	

@@ -24,3 +24,11 @@ git diff
 git clone <url>
 	clone from the github website
 	
+git push origin master
+	pushes files to github respository
+	
+git pull
+	pull the latest version of the files from github respository
+	
+@website
+Use New Pull Request to merge with someone else.
